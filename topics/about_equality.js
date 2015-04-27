@@ -1,4 +1,4 @@
-
+// k.c. my notes: 0
 module("About Equality (topics/about_equality.js)");
 
 test("numeric equality", function() {
