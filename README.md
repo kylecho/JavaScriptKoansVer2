@@ -1,7 +1,5 @@
-# JavaScript Koans Version 2
-This repository keeps a track of my progress in practicing through JavaScript Koans Version 2.
-
-See below for original Readme.
+#Javascript Koans Solution
+Here is my solution to another Javascript Koans. See below for original intro.
 
 Update
 ======
